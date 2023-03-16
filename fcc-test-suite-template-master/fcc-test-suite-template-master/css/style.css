@@ -1,0 +1,5 @@
+@media screen and(min-widt: 480px){
+    body{
+        background-color: teal;
+    }
+}
